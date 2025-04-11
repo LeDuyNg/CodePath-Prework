@@ -5,7 +5,13 @@ Submitted by: **Le Duy Nguyen**
 **Prework App** is an app thatis an app that demonstrates basic SwiftUI functionality,
 including labels, buttons, and interactive elements like switches and sliders. 
 It serves as an introduction to iOS development by implementing simple UI components and logic.
-
+<div>
+    <a href="https://www.loom.com/share/66e4cf26bbd2423baac1484c31e92238">
+    </a>
+    <a href="https://www.loom.com/share/66e4cf26bbd2423baac1484c31e92238">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/66e4cf26bbd2423baac1484c31e92238-70c2afb9a5320b80-full-play.gif">
+    </a>
+  </div>
 Time spent: **1.5** hours spent in total
 
 ## Required Features
