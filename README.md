@@ -1,10 +1,12 @@
-# Prework - *Name of App Here*
+# Prework - *Prework App*
 
-Submitted by: **Your Name Here**
+Submitted by: **Le Duy Nguyen**
 
-**Name of your app** is an app that... [TODO] 
+**Prework App** is an app thatis an app that demonstrates basic SwiftUI functionality,
+including labels, buttons, and interactive elements like switches and sliders. 
+It serves as an introduction to iOS development by implementing simple UI components and logic.
 
-Time spent: **X** hours spent in total
+Time spent: **1.5** hours spent in total
 
 ## Required Features
 
